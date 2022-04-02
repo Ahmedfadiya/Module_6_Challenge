@@ -1,0 +1,50 @@
+  453  git status
+  454  git add .
+  455  git status
+  456  git commit -m "Starter Code file added"
+  457  git push
+  458  git status
+  459  git status
+  460  git add .
+  461  git status
+  462  git commit -m "Assignment completed and submitting"
+  463  git push
+  464  history
+  465  history 50 > Terminalhistory.txt
+  466  ls
+  467  git add
+  468  git add .
+  469  git commit -m "Terminal history added"
+  470  git push
+  471  conda activate dev
+  472  pip3 install alpaca
+  473  conda deactivate
+  474  pip3 install alpaca
+  475  conda activate dev
+  476  pip3 install Timeframe
+  477  conda deactivate
+  478  pip3 install Timeframe
+  479  conda activate dev
+  480  pip3 install timeframe
+  481  conda deactivate
+  482  pip3 install timeframe
+  483  conda activate dev
+  484  conda install -c pyviz hvplot geoviews
+  485  conda list hvplot
+  486  conda list geoviews
+  487  conda update conda
+  488  conda create -n dev python=3.7 anaconda
+  489  conda activate dev
+  490  conda list sqlalchemy
+  491  conda install -c conda-forge voila
+  492  conda list voila
+  493  cd desktop/Challenge_Folder/Module_6_Challenge/Module_6_Challenge/
+  494  git status
+  495  git add .
+  496  git commit -m "Pushing the final file with all codes in"
+  497  git push
+  498  get history
+  499  history
+  500  history 50
+  501  "history 50 >>history.txt"
+  502  history 50 > Terminalhistory.txt
